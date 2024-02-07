@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Waqar Hussain</h1>
-<h3 align="center">I am an IT graduate Backend Developer eager to embark on a fulfilling journey in the dynamic world of software development. I am proficient in Laravel, a PHP framework known for its elegant syntax and powerful features. I have solid understanding of web development fundamentals, including HTML, CSS, and JavaScript. I can work with database design and management using MySQL, ensuring data integrity and optimal performance. I know version control and collaborative development using Git and GitHub. I have familarity with integrating front-end frameworks like Vue.js and React.js for creating seamless user interfaces.</h3>
+<h3 align="center">I am an expert Full Stack Developer with BS(IT) Degree from University of Sindh. I am proficient in MERN Stack and PHP/Laravel Development.</h3>
 
-- 👨‍💻 All of my projects are available at https://waqar-hussain.netlify.app
+- 👨‍💻 See my portfolio at https://waqarhussainkhk.netlify.app
 
-- 💬 Ask me about **PHP, Laravel, Vue.js, MySQL**
+- 💬 Ask me about **MERN Stack, React.js, Express.js, Web Development, PHP, Laravel, Vue.js, MySQL, MongoDB**
 
 - 📫 How to reach me **waqarhussainkhushk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/waqarhussainkhushk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waqarhussainkhushk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/waqarhussainkhk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waqarhussainkhushk" height="30" width="40" /></a>
 <a href="https://instagram.com/waqarhussain.khushk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waqarhussain.khushk" height="30" width="40" /></a>
 </p>
 
