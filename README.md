@@ -1,3 +1,3 @@
 # 💫 About Me:
-I am an expert, certified Full Stack Web Engineer. I am proficient in designing and developing premium quality web applications of all types.
+I am an expert, certified Backend Engineer Engineer who holds an IT degree from University of Sindh. I am proficient in developing premium quality web applications of all types.
 
