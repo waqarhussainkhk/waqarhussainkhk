@@ -1,3 +1,3 @@
 # 💫 About Me:
-software developer from sindh, pakistan.
+web developer from sindh, pakistan.
 
