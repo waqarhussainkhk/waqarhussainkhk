@@ -35,11 +35,5 @@
 ## 📫 Get in Touch
 - **Portfolio**: [https://waqarhussainkhk.netlify.app](#)
 - **Email**: [waqarhussainkhushk@gmail.com](#)
-- **GitHub**: [Your GitHub Profile](#)
 
 ---
-
-## 🔧 How to Run My Projects
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
