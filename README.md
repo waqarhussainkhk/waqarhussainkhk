@@ -25,15 +25,15 @@
 ---
 
 ## 📚 Certifications
-- [Become a Certified Web Developer Bootcamp]
-- [MySQL for Developers Certification]
-- [Git VCS Certification]
-- [Python Programming Certification]
+- [Become a Certified Web Developer Bootcamp](#)
+- [MySQL for Developers Certification](#)
+- [Git VCS Certification](#)
+- [Python Programming Certification](#)
 
 ---
 
 ## 📫 Get in Touch
-- **Portfolio**: [https://waqarhussainkhk.netlify.app]
+- **Portfolio**: [https://waqarhussainkhk.netlify.app](#)
 - **Email**: [waqarhussainkhushk@gmail.com](#)
 - **GitHub**: [Your GitHub Profile](#)
 
