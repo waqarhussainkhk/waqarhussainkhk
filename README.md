@@ -17,7 +17,7 @@
 
 ## 💼 Professional Experience
 
-### Freelance Backend Developer | Self-Employed | [Dates]
+### Freelance Backend Developer | Self-Employed | [Febuary 2021 - Present]
 - Built custom backend solutions for small businesses and startups.
 - Collaborated with frontend developers to ensure seamless integration.
 - Delivered projects on time and within budget.
